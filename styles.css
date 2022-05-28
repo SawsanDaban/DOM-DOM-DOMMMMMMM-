@@ -1,0 +1,21 @@
+.container {
+    padding: 0;
+    margin: 0;
+}
+
+.square-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.black-square {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin: 1px;
+}
+
+.center{
+    padding: 25px 25px;
+}
